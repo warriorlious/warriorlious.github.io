@@ -12,40 +12,34 @@ description: JennyPrinter2
 <table>
 <thead>
 <tr>
-<th>序号</th>
-<th>名称</th>
-<th>规格</th>
-<th>数量</th>
-<th>单位</th>
-<th>备注</th>
+<th>序号</th>     <th>名称</th>     <th>规格</th>     <th>数量</th>     <th>单位</th>     <th>备注</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>1</td>		<td>交流三角插座</td>	<td>大陆地区标准</td>	<td>1</td>	<td>只</td>	<td>0.8</td>
+<td>1</td>		<td>交流三角插座</td>	<td>大陆标准</td>	<td>1</td>	<td>只</td>	<td>0.8</td>
+<td>2</td>			<td>220V交流电源线</td>	<td>大陆地区标准</td>	<td>	1</td>	<td>	根</td>	<td>	6.5</td>
+<td>3</td>			<td>船型开关</td>	<td>10*15</td>	<td>	2</td>	<td>	只</td>	<td>	0.25</td>
+<td>4</td>			<td>开关电源</td>	<td>12V 360W</td>	<td>	1</td>	<td>	只</td>	<td>	60</td>
+<td>5</td>		    <td>电路板套装</td>	<td>RAMPS1.4	官方版本</td>	<td>	1</td>	<td>	片</td>	<td>	179</td>
+<td>6</td>			<td>Arduino Mega2560</td>	<td>官方版本</td>	<td>	1</td>	<td>	片</td>	<td> </td>
+<td>7</td>			<td>A4988+散热片+双面胶带</td>	<td>官方版本</td>	<td>	4</td>	<td>	片</td>	<td> </td>
+<td>8</td>			<td>LCD2004SD控制板</td>	<td>官方版本</td>	<td>	1</td>	<td>	片</td>	<td> </td>
+<td>9</td>			<td>LCD旋钮	黑色</td> <td>	</td>	<td>1</td>	<td>	片</td>	<td>	0.5</td>
+<td>10</td>			<td>USB方口转母头</td>	<td>	</td>	<td>1</td>	<td>	根</td>	<td>	7.2 </td>
+<td>11</td>			<td>USB双公头</td>	<td>	</td>	<td>1</td>	<td>	根</td>	<td> </td>
+<td>12</td>			<td>限位开关带线</td>	<td>1长2中	</td>	<td>3</td>	<td>	只</td>	<td>	1.25</td>
+<td>13</td>			<td>12V电源供电芯线</td>	<td>	</td>	<td>4</td>	<td>	根</td>	<td>	1</td>
+<td>14</td>			<td>4cm静音风扇</td>	<td>	</td>	<td>1</td>	<td>	只</td>	<td>	8</td>
+<td>15</td>			<td>涡轮风扇</td>	<td>50mm	</td>	<td>2</td>	<td>	只</td>	<td>	2</td>
+<td>16</td>			<td>双绞线</td>	<td>	</td>	<td>4</td>	<td>	米</td>	<td>	1</td>
+
+<td>18</td>			<td>XY轴电机+接插件</td>	<td>42步进40高度	</td>	<td>2</td>	<td>	台</td>	<td>	140</td>
+<td>19</td>			<td>丝杆电机+螺母</td>	<td>40高度，出轴260mm	</td>	<td>1</td>	<td>	台</td>	<td> </td>
+<td>20</td>			<td>E轴电机</td>	<td>42步进60高度	</td>	<td>1</td>	<td>	台</td>	<td> </td>
 </tr>
 </tbody>
  </table>
-2		220V交流电源线	大陆地区标准	1	根	6.5
-3		船型开关	10*15	2	只	0.25
-4		开关电源	12V 360W	1	只	60
-5	电路板套装	RAMPS1.4	官方版本	1	片	179
-6		Arduino Mega2560	官方版本	1	片
-7		A4988+散热片+双面胶带	官方版本	4	片
-8		LCD2004SD控制板	官方版本	1	片
-9		LCD旋钮	黑色	1	片	0.5
-10		USB方口转母头		1	根	7.2
-11		USB双公头		1	根
-12		限位开关带线	1长2中	3	只	1.25
-13		12V电源供电芯线		4	根	1
-14		4cm静音风扇		1	只	8
-15		涡轮风扇	50mm	2	只	2
-16		双绞线		4	米	1
-
-18		XY轴电机+接插件	42步进40高度	2	台	140
-19		丝杆电机+螺母	40高度，出轴260mm	1	台
-20		E轴电机	42步进60高度	1	台
-
 ### 喷头
 		名称	规格	数量	单位
 21		E3D V5散热器		1	个	31
