@@ -9,9 +9,9 @@ JennyPrinter 3D打印机取义于珍妮纺纱机，是一个指导从零开始�
 
 ## 从哪里获取
 
-[发布页](http：//www.jennyprinter.com)
+[发布页](http://jennyprinter.com/)
 
-[历史版本](http://www.jennyprinter.com/wiki/MFS)
+[历史版本](http://jennyprinter.com/wiki/index.php/MFS)
 
 ## 维护者名单
 
