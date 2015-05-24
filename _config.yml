@@ -26,8 +26,8 @@ favicon: https://raw.githubusercontent.com/warriorlious/warriorlious.github.io/m
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: github.com/warriorlious/warriorlious.github.io
 
 # disqus 设置
 disqus:
-  shortname: wl
+  shortname: suyan-zh
