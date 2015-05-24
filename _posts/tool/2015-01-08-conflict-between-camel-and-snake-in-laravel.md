@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一致性导致的问题
-category: 技术
+category: 工具
 tags: [PHP, Laravel]
 keywords: Laravel,Conflict,Relationship,Model
 description: 
