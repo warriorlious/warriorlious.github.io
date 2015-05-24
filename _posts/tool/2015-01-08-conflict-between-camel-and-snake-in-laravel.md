@@ -1,70 +1,42 @@
 ---
 layout: post
-title: 一致性导致的问题
+title: Windows和Linux切换最终解决方案
 category: 工具
-tags: [PHP, Laravel]
-keywords: Laravel,Conflict,Relationship,Model
-description: 
+tags: [Windows , Linux]
+description: 如果你也像我一样经常工作于Windows和Linux，那么这篇文章值得一看
 ---
 
-## 1. 定义关联模型
+## 尝试和选择
 
-在Laravel里面，我们可以通过定义以下Model来完成关联查询。
+一台机器使用Windows和Linux一般有以下几个方式：
 
-```php
-class MyPost extends Eloquent {
-    public function myPostInfo () {
-        return $this->hasOne('MyPostInfo');
-    }
-}
+- Windows和Linux真正的双系统，开机两个引导
+- Linux下虚拟Windows（一般是xp）
+- Windows下虚拟Linux
 
-class MyPostInfo extends Eloquent {}
-```
+除了以上几个，还有一些其他方法，都没啥映像，在此不讨论。
 
-## 2. 使用关联模型
+选择两个系统无非是因为工作原因，Linux下开发，Windows下娱乐或者Word等。出现这种矛盾实在是纠结，在尝试过上述三种方案以后，我选择了在Windows下虚拟一个Linux，原因如下：
 
-这里`myPostInfo()`用的是Camel命名规则，但是我们在读取某一个PostInfo的时候可以用Snake规则。如下面代码都是可行的：
+- 使用Vmware虚拟实在是比Virtual Box好用（主要是功能）
+- Windows下的软件体验真的不错，而且是越来越好。虽然Linux下有各种开源软件功能一点都不差，但是你无法逃避的现实就是，用户体验真的不够。
+- 双系统经常切换非常麻烦
+- Windows系统问题，虚拟出来的真的不好用
+- Linux真正需要的，字符界面就够用，所以一般不需要占太大资源
 
-```php
-$post = MyPost::find(1);
-$post_info = $post->myPostInfo; // example 1
-$post_info = $post->my_post_info; // example 2
-```
+根据这几点，结果就定了，那么Windows下虚拟Linux怎样做最好呢?
 
-Laravel允许上述两种方法，但是没有合理的处理使用两种命名造成的冲突。
+## 配置
 
-## 3. 缓存失效
+1. 安装vmware
+    安装过程不多说，提醒一点就是，记得在配置中设置，关闭vmware后不关闭运行的虚拟机，原因待会说。
+2. 安装ubuntu server 
+    我选择了ubuntu server最小化安装，不安装x window，结果就是512内存和1cpu就顺畅运行，做各种开发木有问题
+3. 安装securecrt或者putty
+    vmware下直接用字符界面很蛋疼，没有全屏，所以使用securecrt来连接linux，这就是为啥第一步关闭vmware后还留下虚拟机。这么做可以让资源尽可能充足应用。
+4. 给Linux共享文件
+    在字符界面下安装vmtools不是很容易，方法请参考我的另外一篇文章[给Vmware下的Ubuntu Server共享文件](http://yansublog.sinaapp.com/2012/12/17/%e7%bb%99vmware%e4%b8%8b%e7%9a%84ubuntu-server%e5%85%b1%e4%ba%ab%e6%96%87%e4%bb%b6/ "给Vmware下的Ubuntu Server共享文件")。这么做主要是为了在Windows下些代码，在Linux上运行
 
-如果我们同时使用了上述两个例子，就会使其中一个缓存失效。在Model的relations变量中，缓存了已经读取过的关联Model，但是当我们用不同规则的名字去读取的时候，却会使得前一个缓存失效。例如
+## 总结
 
-```php
-$post_info = $post->myPostInfo; 
-// $post->relations = [‘myPostInfo’ => ..];
-
-$post_info = $post->my_post_info;
-// $post->relations = [‘myPostInfo’ => …, ‘my_post_info’ => …];
-```
-
-所以如果不希望缓存失效，得在项目中只使用一种命名方法去读取关系模型。Laravel推荐的是Camel Case.
-
-## 4. toArray() 方法失效
-
-如果同时使用了两者，另外一个问题就是导致`Model::toArray()`失效。因为`toArray()`方法首先去`relations`中查找Snake Case命名的关联模型，没有的话才去看Camel Case的。
-
-所以如果用到了`toArray()`方法来转换Model，切忌同时使用两者。
-
-## 5. 容易犯错的位置
-
-最容易犯错的代码是这样的：
-
-```php
-MyPost::with(‘myPostInfo’)->get();
-```
-
-在使用With去eagerLoad关联模型时，必须使用和定义方法同名的key去读取，那么这样读取出来的方法只能是Camel Case的key。其他地方就只能用
-
-```php
-$my_post->myPostInfo;
-```
-
-来保证不出问题。
+我是个实用主义，怎么顺手怎么来，如果你希望使用Windows下的软件，又无法离开Linux开发（有自己的服务器除外），那么这样的方式挺好。
