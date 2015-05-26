@@ -292,7 +292,7 @@ JennyPrinter2采用木板+金属板 或 亚克力+金属板
 
 ####挤出机打印
 
-![挤出机打印放置](https://github.com/warriorlious/JennyPrinter2/blob/master/STL_Print_File/Extruder/Extruder.jpg)
+![挤出机打印放置](https://raw.githubusercontent.com/warriorlious/JennyPrinter2/master/STL_Print_File/Extruder/Extruder.jpg)
 
 
 
