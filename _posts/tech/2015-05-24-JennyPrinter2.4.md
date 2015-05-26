@@ -292,11 +292,33 @@ JennyPrinter2采用木板+金属板 或 亚克力+金属板
 
 ####挤出机打印
 
-![挤出机打印放置](https://raw.githubusercontent.com/warriorlious/JennyPrinter2/master/STL_Print_File/Extruder/Extruder.jpg)
+![挤出机打印放置](https://github.com/warriorlious/JennyPrinter2/blob/master/STL_Print_File/Extruder/Extruder.jpg)
 
 
 
 ## 第三章 开始装配
+
+###挤出机装配
+准备：
+
+
+- 快接气动头1个
+- 凹槽轴承1个
+- 打印件2片
+- 手拧螺母2只
+- 电机支架1只
+- 步进电机1台
+- 弹簧1只
+- 16mm M3螺丝2只
+- 25mm M3螺丝3只
+- 22mm M3螺丝1只
+
+
+![挤出机装配完成图](https://raw.githubusercontent.com/warriorlious/JennyPrinter2/master/STL_Print_File/Extruder/%E5%AE%89%E8%A3%85%E5%AE%8C%E6%88%90%E5%9B%BE.jpg)
+
+![安装参考图](https://raw.githubusercontent.com/warriorlious/JennyPrinter2/master/STL_Print_File/Extruder/IMG_20150526_101551.jpg)
+
+
 
 ## 第四章 手动校准及上电前检查
 
