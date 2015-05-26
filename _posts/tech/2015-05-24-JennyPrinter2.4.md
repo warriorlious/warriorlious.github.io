@@ -240,7 +240,7 @@ description: JennyPrinter2
 ------------
 ###外壳
 
-[外壳切割文件下载]()
+[外壳切割文件下载](https://github.com/warriorlious/JennyPrinter2/tree/master/Cut_file)
 
 1.亚克力
 缺点： 亚克力激光加工工艺导致锥形孔误差、加工燃烧气体有毒有害、太脆，不便搬运
@@ -275,7 +275,7 @@ description: JennyPrinter2
 
 结论，可以作为3D打印机外壳
 
-JennyPrinter2采用木板+金属板 或亚克力+金属板
+JennyPrinter2采用木板+金属板 或 亚克力+金属板
 
 
 
@@ -286,6 +286,13 @@ JennyPrinter2采用木板+金属板 或亚克力+金属板
 
 切片参考：
 
+填充80%以上，关键受力部件（如挤出机臂，后滑块）采用100%填充以增加强度。
+
+材料选择上，采用高熔点耗材，打印温度略高于耗材熔点，以保证层间的更紧密配合。
+
+####挤出机打印
+
+![挤出机打印放置](https://github.com/warriorlious/JennyPrinter2/blob/master/STL_Print_File/Extruder/Extruder.jpg)
 
 
 
