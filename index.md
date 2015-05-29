@@ -16,6 +16,10 @@ JennyPrinter 3D打印机取义于珍妮纺纱机，是一个指导从零开始�
 
 [视频专辑](http://www.tudou.com/listplay/VFB1lydTNYw.html)
 
+## 让开源DIY更加完美和稳定
+
+加入我们吧
+
 ## 维护者名单
 
 warriorlious_大风车  warriorlious@gmail.com 
