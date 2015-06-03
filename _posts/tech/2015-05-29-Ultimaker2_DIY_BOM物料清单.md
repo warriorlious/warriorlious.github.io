@@ -13,7 +13,7 @@ description: Ultimaker2
 - 1012	X-linear shaft	X 直线光轴  337mm *8mm
 - 1021	Ball Bearing 688-2RS	滚珠轴承 8*6*15
 - 1024	Limit Switch, Black Short Wire	限位开关 黑短线 300mm长
-- 1056	Sintered Bushing	铜套 8*11*30
+
 - 1065	Linear Bearing LM6LUU	直线轴承 LM6LUU
 - 1069	Tube Coupling Collet	送料管夹头
 - 1071	Clamp Clip	送料管夹片
@@ -37,7 +37,7 @@ description: Ultimaker2
 - 1165	Timing Pulley 5mm Shaft GT2	5mm GT2 同步轮
 - 1166	Timing Pulley 8mm Shaft GT2	8mm GT2 同步轮
 - 1167	Timing Pulley Double 8mm Shaft GT2	双mm8 GT2 同步轮
-- 1168	Sliding Block Spring	滑块扭力弹簧
+
 - 1169	Z-linear Shaft	Z 直线轴 339*12
 - 1170	Square Flanged Linear Bearing LMK12LUU	方形法兰 直线轴承
 - 1171	Double flat Cable 10 Wire	LCD排线 500mm
@@ -104,6 +104,42 @@ description: Ultimaker2
 ![1.8](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%288%29.jpg)
 
 
+##XY滑块
+- 1255	Sliding Block Half UM2	注塑滑块
+- 1168	Sliding Block Spring	滑块扭力弹簧
+- 1056	Sintered Bushing	铜套 8*11*30
+
+[**点击购买XY滑块优惠价**](http://item.taobao.com/item.htm?id=44883401500)
+
+
+![2.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%281%29.jpg)
+
+![2.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%282%29.jpg)
+
+![2.3](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%283%29.jpg)
+
+![2.4](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%284%29.jpg)
+
+![2.5](https://github.com/warriorlious/Ultimaker2-DIY/blob/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%285%29.jpg)
+
+
+##挤出机部分
+- 1258	Feeder Part A	注塑件
+- 1259	Feeder Part B	注塑件
+- 1260	Feeder Lever A	注塑件
+- 1261	Feeder Lever B	注塑件
+- 1263	Feeder Knurled Wheel	滚花送丝轮
+- 1264	Feeder Nut Holder	注塑件
+
+
+[**点击购买挤出机套件优惠价**](http://item.taobao.com/item.htm?id=44814155794)
+
+![3.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E6%8C%A4%E5%87%BA%E6%9C%BA%20%281%29.jpg)
+
+![3.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E6%8C%A4%E5%87%BA%E6%9C%BA%20%282%29.jpg)
+
+![3.3](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E6%8C%A4%E5%87%BA%E6%9C%BA%20%283%29.jpg)
+
 
 
 - 1238	Power Adapter 24v-220W	电源适配器 24V220W
@@ -123,18 +159,11 @@ description: Ultimaker2
 
 - 	mechanische delen
 - 1254	Print Table Mounting Aid	打印床底面支撑
-- 1255	Sliding Block Half UM2	注塑滑块
+
+
+
 - 1256	Build Platform Glass Retainer Back	玻璃平台不锈钢卡片
 - 1257	Knurled Nut Platform	手拧螺母
-
-
-- 1258	Feeder Part A	注塑件
-- 1259	Feeder Part B	注塑件
-- 1260	Feeder Lever A	注塑件
-- 1261	Feeder Lever B	注塑件
-- 1263	Feeder Knurled Wheel	滚花送丝轮
-- 1264	Feeder Nut Holder	注塑件
-
 
 - 1266	Bowden tube	送料管 4.5*6 PFA
 - 1268	Heater Cartridge 24V 25W	加热管 4*15.8 24V25W
