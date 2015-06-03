@@ -8,16 +8,128 @@ description: Ultimaker2
 
 
 
+###外壳部分
+
+- 1230	Front Panel UM2	前面板
+- 1231	Back Panel UM2	后面板
+- 1232	Left Panel UM2	左面板
+- 1233	Right Panel UM2	右面板
+- 1234	Bottom Panel UM2	底面板
+- 1235	Top Panel UM2	顶面板
+- 1157	Print Table Back Cover	打印平台后部挡板
+
+[**点击购买Ultimaker2外壳优惠价 旺旺报优惠码“654656216”有惊喜**](http://item.taobao.com/item.htm?id=44820101016)
+
+![1.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%281%29.jpg)
+
+![1.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%282%29.jpg)
+
+![1.4](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%284%29.jpg)
+
+![1.5](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%285%29.jpg)
+
+![1.6](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%286%29.jpg)
+
+![1.7](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%287%29.jpg)
+
+![1.8](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%288%29.jpg)
+
+
+##XY滑块
+- 1255	Sliding Block Half UM2	注塑滑块
+- 1168	Sliding Block Spring	滑块扭力弹簧
+- 1056	Sintered Bushing	铜套 8*11*30
+
+[**点击购买XY滑块优惠价**](http://item.taobao.com/item.htm?id=44883401500)
+
+
+![2.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%281%29.jpg)
+
+![2.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%282%29.jpg)
+
+![2.3](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%283%29.jpg)
+
+![2.4](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%284%29.jpg)
+
+![2.5](https://github.com/warriorlious/Ultimaker2-DIY/blob/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%285%29.jpg)
+
+
+##挤出机部分
+- 1258	Feeder Part A	注塑件
+- 1259	Feeder Part B	注塑件
+- 1260	Feeder Lever A	注塑件
+- 1261	Feeder Lever B	注塑件
+- 1263	Feeder Knurled Wheel	送丝轮
+- 1264	Feeder Nut Holder	注塑件
+- 1311	Spring D2000	弹簧 线径φ1.0mm 外径φ11mm 圈数8 长度18mm
+- 1281	Braided Sleeve Clip	送料管卡线夹
+- 1071	Clamp Clip	送料管夹片
+
+[**点击购买挤出机套件优惠价**](http://item.taobao.com/item.htm?id=44814155794)
+
+![3.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E6%8C%A4%E5%87%BA%E6%9C%BA%20%281%29.jpg)
+
+![3.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E6%8C%A4%E5%87%BA%E6%9C%BA%20%282%29.jpg)
+
+![3.3](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E6%8C%A4%E5%87%BA%E6%9C%BA%20%283%29.jpg)
+
+
+##电源适配器
+
+- 1238	Power Adapter 24v-220W	电源适配器 24V220W
+
+[**点击购买 UM2原版电源适配器 优惠价**](http://item.taobao.com/item.htm?id=44820237237)
+
+![4.1](https://github.com/warriorlious/Ultimaker2-DIY/blob/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E7%94%B5%E6%BA%90%E9%80%82%E9%85%8D%E5%99%A8.JPG)
+
+
+
+##盖板
+
+- 1240	Main Board Electronics Cover	电路板钣金盖子
+
+![5.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E7%94%B5%E8%B7%AF%E7%9B%96%E6%9D%BF.jpg)
+
+- 1251	Ulticontroller Electronics Cover	SD控制电路板钣金盖
+
+![5.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/SD%E6%8E%A7%E5%88%B6%E6%9D%BF%E6%8C%A1%E6%9D%BF.jpg)
+
+- 1273	Cable Cover	电缆盖（电机挡板）
+
+![5.3](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E7%94%B5%E6%9C%BA%E7%9B%96%E6%9D%BF.jpg)
+
+
+##喷头部分
+
+- 1065	Linear Bearing LM6LUU	直线轴承 LM6LUU
+- 1069	Tube Coupling Collet	送料管夹头
+- 1071	Clamp Clip	送料管夹片
+- 1074	Print Head Thumb screw	喷头旋钮螺丝 M3*70
+- 1330	Hot-end Cooling Fan 5VDC 0.08A	热端冷却风扇 5V 0.08A 25mm
+- 1306	Hot end holder bottom	热端支架底部 铝件3.2315
+- 1307	Hot end holder top	热端支架顶部 铝件3.2315
+- 1308	Cooling Rib Hot End	热端散热片
+- 1309	PTFE Isolator Coupler 3.2 mm	3.2mm PTFE隔热
+- 1310	Hot end Isolator	热端隔离 不锈钢
+- 1329	Dual fan bracket	双风扇弯折支架
+- 1320	Print Head Top	打印头顶部注塑件
+- 1321	Print Head Middle	打印头中部注塑件
+- 1322	Print Head Bottom	打印头底部注塑件
+
+![6.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%96%B7%E5%A4%B4%E9%83%A8%E5%88%86.jpg)
+
+
+- 1313	Model Cooling Fan 12VDC 0.1 A	模型冷却风扇 24V 30mm
 
 - 1011	Y-linear shaft	Y 直线光轴 348mm*8mm
 - 1012	X-linear shaft	X 直线光轴  337mm *8mm
 - 1021	Ball Bearing 688-2RS	滚珠轴承 8*6*15
 - 1024	Limit Switch, Black Short Wire	限位开关 黑短线 300mm长
 
-- 1065	Linear Bearing LM6LUU	直线轴承 LM6LUU
-- 1069	Tube Coupling Collet	送料管夹头
-- 1071	Clamp Clip	送料管夹片
-- 1074	Print Head Thumb screw	喷头旋钮螺丝 M3*70
+
+
+
+
 - 1091	Main board v2.1.1	主板
 - 1140	Feeder Spring DR2110	送料机弹簧 1.2*8*20
 - 1144	USB Cable	USB线
@@ -77,75 +189,6 @@ description: Ultimaker2
 - 1226	Grease for Z screw	Magnalube-G 高速轮滑脂
 - 1228	Pritt	固体胶
 
-###外壳部分
-
-- 1230	Front Panel UM2	前面板
-- 1231	Back Panel UM2	后面板
-- 1232	Left Panel UM2	左面板
-- 1233	Right Panel UM2	右面板
-- 1234	Bottom Panel UM2	底面板
-- 1235	Top Panel UM2	顶面板
-- 1157	Print Table Back Cover	打印平台后部挡板
-
-[**点击购买Ultimaker2外壳优惠价 旺旺报优惠码“654656216”有惊喜**](http://item.taobao.com/item.htm?id=44820101016)
-
-![1.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%281%29.jpg)
-
-![1.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%282%29.jpg)
-
-![1.4](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%284%29.jpg)
-
-![1.5](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%285%29.jpg)
-
-![1.6](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%286%29.jpg)
-
-![1.7](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%287%29.jpg)
-
-![1.8](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%A4%96%E5%A3%B31230-1235%20%288%29.jpg)
-
-
-##XY滑块
-- 1255	Sliding Block Half UM2	注塑滑块
-- 1168	Sliding Block Spring	滑块扭力弹簧
-- 1056	Sintered Bushing	铜套 8*11*30
-
-[**点击购买XY滑块优惠价**](http://item.taobao.com/item.htm?id=44883401500)
-
-
-![2.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%281%29.jpg)
-
-![2.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%282%29.jpg)
-
-![2.3](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%283%29.jpg)
-
-![2.4](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%284%29.jpg)
-
-![2.5](https://github.com/warriorlious/Ultimaker2-DIY/blob/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XY%E6%BB%91%E5%9D%97%20%285%29.jpg)
-
-
-##挤出机部分
-- 1258	Feeder Part A	注塑件
-- 1259	Feeder Part B	注塑件
-- 1260	Feeder Lever A	注塑件
-- 1261	Feeder Lever B	注塑件
-- 1263	Feeder Knurled Wheel	送丝轮
-- 1264	Feeder Nut Holder	注塑件
-- 1311	Spring D2000	弹簧 线径φ1.0mm 外径φ11mm 圈数8 长度18mm
-- 1281	Braided Sleeve Clip	送料管卡线夹
-
-[**点击购买挤出机套件优惠价**](http://item.taobao.com/item.htm?id=44814155794)
-
-![3.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E6%8C%A4%E5%87%BA%E6%9C%BA%20%281%29.jpg)
-
-![3.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E6%8C%A4%E5%87%BA%E6%9C%BA%20%282%29.jpg)
-
-![3.3](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E6%8C%A4%E5%87%BA%E6%9C%BA%20%283%29.jpg)
-
-
-
-- 1238	Power Adapter 24v-220W	电源适配器 24V220W
-
-- 1240	Main Board Electronics Cover	电路板钣金盖子
 - 1241	Motor Spacer UM2	电机支架
 - 1242	Spacer 3.2 x 6x 10	垫柱 M3*10
 - 1243	Heated Bed Cable Clip	热床电线压块
@@ -156,7 +199,7 @@ description: Ultimaker2
 - 1247	OLED Display UM2	OLED显示屏
 - 1248	SD card	SD卡
 - 1249	Ulticontroller Board	SD控制电路板
-- 1251	Ulticontroller Electronics Cover	SD控制电路板钣金盖
+
 
 - 	mechanische delen
 - 1254	Print Table Mounting Aid	打印床底面支撑
@@ -173,7 +216,7 @@ description: Ultimaker2
 - 1271	Power Cable AU Type C13
 - 1272	Power Cable US Type C13
 
-- 1273	Cable Cover	电缆盖（电机挡板）
+
 - 1275	Serial number sticker	标签
 - 1280	Braided Sleeve	编织套管
 -
@@ -184,18 +227,10 @@ description: Ultimaker2
 - 	hot-end
 - 1301	Integrated nozzle heater block 3mm filament	3mm耗材的集成加热喷嘴
 
-- 1306	Hot end holder bottom	热端支架底部 铝件3.2315
-- 1307	Hot end holder top	热端支架顶部 铝件3.2315
-- 1308	Cooling Rib Hot End	热端散热片
-- 1309	PTFE Isolator Coupler 3.2 mm	3.2mm PTFE隔热
-- 1310	Hot end Isolator	热端隔离 不锈钢
 
-- 1313	Model Cooling Fan 12VDC 0.1 A	模型冷却风扇 24V 30mm
-- 1330	Hot-end Cooling Fan 5VDC 0.08A	热端冷却风扇 5V 0.08A 25mm
-- 1329	Dual fan bracket	双风扇弯折支架
-- 1320	Print Head Top	打印头顶部注塑件
-- 1321	Print Head Middle	打印头中部注塑件
-- 1322	Print Head Bottom	打印头底部注塑件
+
+
+
 - 1325	Insert material sticker	透明贴纸铂
 - 1326	Warning sticker	高温警告标签
 - 1315	Jumper	跳冒
