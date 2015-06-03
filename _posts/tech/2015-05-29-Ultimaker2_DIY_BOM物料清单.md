@@ -80,7 +80,7 @@ description: Ultimaker2
 
 [**点击购买 UM2原版电源适配器 优惠价**](http://item.taobao.com/item.htm?id=44820237237)
 
-![4.1](https://github.com/warriorlious/Ultimaker2-DIY/blob/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E7%94%B5%E6%BA%90%E9%80%82%E9%85%8D%E5%99%A8.JPG)
+![4.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E7%94%B5%E6%BA%90%E9%80%82%E9%85%8D%E5%99%A8.JPG)
 
 
 
@@ -119,53 +119,99 @@ description: Ultimaker2
 ![6.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%96%B7%E5%A4%B4%E9%83%A8%E5%88%86.jpg)
 
 
+##电机
+
+- 1159	Z-Motor with Trapezoidal Lead Srew	Z轴T型丝杆电机
+-
+![7.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/Z%E8%BD%B4%E4%B8%9D%E6%9D%86%E7%94%B5%E6%9C%BA.jpg)
+
+- 1179	Feeder Motor	送料电机 550mm线长
+- 1182	X,Y Motor	XY电机 550mm线长
+
+![7.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/XYE%E7%94%B5%E6%9C%BA.jpg)
+
 - 1313	Model Cooling Fan 12VDC 0.1 A	模型冷却风扇 24V 30mm
 
+
+##光轴
 - 1011	Y-linear shaft	Y 直线光轴 348mm*8mm
 - 1012	X-linear shaft	X 直线光轴  337mm *8mm
-- 1021	Ball Bearing 688-2RS	滚珠轴承 8*6*15
+- 1172	Print Head Shaft X	320*6mm光轴
+- 1173	Print Head Shaft Y	300*6mm光轴
+- 1169	Z-linear Shaft	Z 直线轴 339*12
+
+![8.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E4%B8%80%E5%A5%97%E5%85%89%E8%BD%B4.jpg)
+
+
+##同步轮
+- 1165	Timing Pulley 5mm Shaft GT2	5mm GT2 同步轮
+- 1166	Timing Pulley 8mm Shaft GT2	8mm GT2 同步轮
+- 1167	Timing Pulley Double 8mm Shaft GT2	双mm8 GT2 同步轮
+
+![9.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E5%90%8C%E6%AD%A5%E8%BD%AE%E4%B8%80%E5%A5%97.jpg)
+
+- 1188	Timing Belt GT2 200	GT2同步带 200齿
+- 1189	Timing Belt GT2 610	GT2同步带 610齿
+
+
+
+##限位开关
+- 1162	Limit Switch, Blue Wire	限位开关 蓝线 500mm
+- 1163	Limit Switch, Red Wire	限位开关 红线 500mm
 - 1024	Limit Switch, Black Short Wire	限位开关 黑短线 300mm长
 
+![10.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E9%99%90%E4%BD%8D%E5%BC%80%E5%85%B3.jpg)
+
+#Z平台
+- 1154	Print Table Glass	平台玻璃 4mm 229*257
+
+![11.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E9%92%A2%E5%8C%96%E7%8E%BB%E7%92%83.jpg)
+
+- 1155	Print Table Heated Bed	平台加热床 1.5mm铝基
+
+![11.2](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E9%93%9D%E5%9F%BA%E5%8A%A0%E7%83%AD%E5%BA%8A.jpg)
+
+- 1153	Print Table Base Plate	平台基础金属板 4mm个M4孔
+
+![11.3](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/Z%E5%B9%B3%E5%8F%B0%E6%94%AF%E6%92%91%E6%9D%BF.jpg)
+
+#柱子
+
+- 1176	Spacer 8.2x10x5	垫柱8.2*10*5
+- 1177	Spacer 8.2x10x10	垫柱 8.2*10*10
+- 1178	Spacer 8.2x10x25	垫柱 8.2*10.25
+
+![12.1](https://raw.githubusercontent.com/warriorlious/Ultimaker2-DIY/master/BOM/BOM%E5%AF%B9%E7%85%A7%E5%9B%BE/%E6%9F%B1%E5%AD%90.jpg)
 
 
-
-
+- 1021	Ball Bearing 688-2RS	滚珠轴承 8*6*15
 - 1091	Main board v2.1.1	主板
 - 1140	Feeder Spring DR2110	送料机弹簧 1.2*8*20
 - 1144	USB Cable	USB线
 
 - 1152	Table Spring D2150	平台弹簧 1.2*9*15
-- 1153	Print Table Base Plate	平台基础金属板 4mm个M4孔
-- 1154	Print Table Glass	平台玻璃 4mm 229*257
-- 1155	Print Table Heated Bed	平台加热床 1.5mm铝板
-- 1156	Z-shaft Cap Bottom	Z光轴底盖  打印件
+
+
+
+- 1156	Z-shaft Cap Bottom	Z
+- 底盖  打印件
 
 - 1158	Reel Holder	挂料支撑 注塑
-- 1159	Z-Motor with Trapezoidal Lead Srew	Z轴T型丝杆电机
+
 - 1161	LED Strip Cold white	冷白LED带
-- 1162	Limit Switch, Blue Wire	限位开关 蓝线 500mm
-- 1163	Limit Switch, Red Wire	限位开关 红线 500mm
 
-- 1165	Timing Pulley 5mm Shaft GT2	5mm GT2 同步轮
-- 1166	Timing Pulley 8mm Shaft GT2	8mm GT2 同步轮
-- 1167	Timing Pulley Double 8mm Shaft GT2	双mm8 GT2 同步轮
 
-- 1169	Z-linear Shaft	Z 直线轴 339*12
+
+
 - 1170	Square Flanged Linear Bearing LMK12LUU	方形法兰 直线轴承
 - 1171	Double flat Cable 10 Wire	LCD排线 500mm
-- 1172	Print Head Shaft X	320*6mm光轴
-- 1173	Print Head Shaft Y	300*6mm光轴
-- 1176	Spacer 8.2x10x5	垫柱8.2*10*5
-- 1177	Spacer 8.2x10x10	垫柱 8.2*10*10
-- 1178	Spacer 8.2x10x25	垫柱 8.2*10.25
-- 1179	Feeder Motor	送料电机 550mm线长
-- 1182	X,Y Motor	XY电机 550mm线长
+
+
 - 1183	Heated Bed Cable	加热床4芯电线 650mm
 - 1185	PT100 B sensor	PT100 B级传感器
 - 1186	Print Head Cable	打印头电线 6芯 带接插件
 - 1187	Trapezoidal Lead Nut	梯形丝杆螺母 外径10mm
-- 1188	Timing Belt GT2 200	GT2同步带 200齿
-- 1189	Timing Belt GT2 610	GT2同步带 610齿
+
 
 - 	boutjes en moeren
 - 1200	ISO 7380 M3x8	M3 8mm 沉头内六角
@@ -189,7 +235,8 @@ description: Ultimaker2
 - 1226	Grease for Z screw	Magnalube-G 高速轮滑脂
 - 1228	Pritt	固体胶
 
-- 1241	Motor Spacer UM2	电机支架
+- 1241	Motor Spacer UM2
+- 电机支架
 - 1242	Spacer 3.2 x 6x 10	垫柱 M3*10
 - 1243	Heated Bed Cable Clip	热床电线压块
 
