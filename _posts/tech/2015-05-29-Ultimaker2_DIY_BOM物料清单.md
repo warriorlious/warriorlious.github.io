@@ -128,9 +128,10 @@ description: Ultimaker2
 - 1259	Feeder Part B	注塑件
 - 1260	Feeder Lever A	注塑件
 - 1261	Feeder Lever B	注塑件
-- 1263	Feeder Knurled Wheel	滚花送丝轮
+- 1263	Feeder Knurled Wheel	送丝轮
 - 1264	Feeder Nut Holder	注塑件
-
+- 1311	Spring D2000	弹簧 线径φ1.0mm 外径φ11mm 圈数8 长度18mm
+- 1281	Braided Sleeve Clip	送料管卡线夹
 
 [**点击购买挤出机套件优惠价**](http://item.taobao.com/item.htm?id=44814155794)
 
@@ -175,7 +176,7 @@ description: Ultimaker2
 - 1273	Cable Cover	电缆盖（电机挡板）
 - 1275	Serial number sticker	标签
 - 1280	Braided Sleeve	编织套管
-- 1281	Braided Sleeve Clip	送料管卡线夹
+-
 - 1287	Washer M7	垫圈 7.25*12*0.5
 - 1288	Washer M6	垫圈 6.4*12.1.6
 - 1290	Filament guide	耗材导引件
@@ -188,7 +189,7 @@ description: Ultimaker2
 - 1308	Cooling Rib Hot End	热端散热片
 - 1309	PTFE Isolator Coupler 3.2 mm	3.2mm PTFE隔热
 - 1310	Hot end Isolator	热端隔离 不锈钢
-- 1311	Spring D2000	弹簧 线径φ1.0mm 外径φ11mm 圈数8 长度18mm
+
 - 1313	Model Cooling Fan 12VDC 0.1 A	模型冷却风扇 24V 30mm
 - 1330	Hot-end Cooling Fan 5VDC 0.08A	热端冷却风扇 5V 0.08A 25mm
 - 1329	Dual fan bracket	双风扇弯折支架
